@@ -1,8 +1,9 @@
 # login_apigoogle
 
-A new Flutter project.
+##EJECUTAR GENERAR :
+keytool -exportcert -list -v -alias androiddebugkey -keystore %
+USERPROFILE%\.android\debug.keystore = generar codigo enlazar 
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+##configuracion GOOGLE PEOPLE
+https://console.developers.google.com/apis/credentials?project=server-207417
+         
